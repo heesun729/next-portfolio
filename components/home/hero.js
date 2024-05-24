@@ -27,10 +27,10 @@ export default function Hero() {
                     </ul>
                 </p>
                 <div className="flex justify-center">
-                    <Link href="/projects" legacyBehavior>
+                    <Link href="/about" legacyBehavior>
                         <a className="btn-project mr-4">About Projects</a>
                     </Link>
-                    <Link href="/projects" legacyBehavior>
+                    <Link href="/me" legacyBehavior>
                         <a className="btn-project2">About Me</a>
                     </Link>
                 </div>
